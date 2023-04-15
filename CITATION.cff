@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jacqueline"
+  given-names: "Lee"
+  
+title: "2D Monte Carlo Simulation for Compton Scattering"
+version: 1.0.0
+date-released: 2023-04-15
+url: "https://github.com/jielingl11/Compton-Scattering"
